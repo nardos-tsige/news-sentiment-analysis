@@ -52,3 +52,10 @@ htmlcov/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Ignore large data files
+data/raw/*.csv
+data/raw/*.zip
+*.zip
+*.csv
+.ipynb_checkpoints/
