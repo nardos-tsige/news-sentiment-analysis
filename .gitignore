@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files (don't commit large data)
+data/raw/*.csv
+data/raw/*.parquet
+*.csv
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
