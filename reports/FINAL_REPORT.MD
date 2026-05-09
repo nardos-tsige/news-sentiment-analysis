@@ -3,9 +3,6 @@
 
 ## FINAL REPORT 
 
-### Where to put it:
-Create this file in VS Code: `reports/FINAL_REPORT.md`
-
 ```markdown
 # 📊 Can News Headlines Predict Stock Prices?
 
