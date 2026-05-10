@@ -32,4 +32,5 @@ Thumbs.db
 "@ | Out-File -FilePath .gitignore -Encoding utf8
 
 # Verify the fix
-Get-Content .gitignore | Select-String "ipynb"
+Get-Content .gitignore | Select-String "ipynb""bfg.jar" 
+"data/" 
